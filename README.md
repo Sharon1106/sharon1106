@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me
 
-I'm Sharon from Los Angeles, California and focused on front end design and development, background in Fine Art Shipping and Logistics. Always eager to learn! My first language was JavaScript and I enjoy learning languages and frameworks such as React, Material Design and Squarespace. I'm also a Hiker. 3d print enthusiast. Lover of music. IPhone tech. Human.
+I'm Sharon from Los Angeles, California focused on front end, primarily MERN stack, design and development. Always eager to learn! My first language was JavaScript and I enjoy learning languages and frameworks such as React, Material Design and Squarespace. I'm also a Hiker. 3d print enthusiast. Lover of music. IPhone tech. Human.
 - 😄 My pronouns are She/Her
 - 🌱 Exploring UX & UI Design.
 - 💬 Ask me about possibly joining your team :stuck_out_tongue_winking_eye:
