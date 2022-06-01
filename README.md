@@ -12,7 +12,7 @@ I'm Sharon from Los Angeles, California. Full Stack developer focused on Front E
 - 😄 My pronouns are She/Her :rainbow:
 - 🌱 Exploring UX & UI Design.
 - 💬 Ask me about possibly joining your team :stuck_out_tongue_winking_eye:
-- 📫 How to reach me: <martinezsharonr@gmail.com> [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharon1106) 
+- 📫 How to reach me: <martinezsharonr@gmail.com> | [in/sharon-martinez-r](https://www.linkedin.com/in/sharon-martinez-r/)
 
 ---
 
