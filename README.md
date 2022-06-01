@@ -6,6 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-sharon1106&style=flat-square&color=blue" alt=""/>
 </p>
 
+
 ### :woman_technologist: About Me
 I'm Sharon from Los Angeles, a full stack developer focused on front end programming with a background in shipping logistics. Hiker. 3d print enthusiest. Lover of music. iPhone tech. Human.
 - 😄 My pronouns are She/Her
@@ -13,6 +14,7 @@ I'm Sharon from Los Angeles, a full stack developer focused on front end program
 - 🌱 Exploring UX & UI Design.
 - 💬 Ask me about possibly joining your team :stuck_out_tongue_winking_eye:
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharon1106) <martinezsharonr@gmail.com>
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools
@@ -28,6 +30,7 @@ I'm Sharon from Los Angeles, a full stack developer focused on front end program
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>&nbsp;
 </p>
+
 ---
 
 ### :fire: GitHub Stats 
