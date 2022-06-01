@@ -38,6 +38,6 @@ I'm Sharon from Los Angeles, California. Full Stack developer focused on Front E
 
 ### :fire: GitHub Stats 
 
-![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharon1106&show_icons=true&theme=tokyonight) 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharon1106&theme=tokyonight" alt="sharonstreak"/>
-[![Sharon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharon1106&layout=compact&theme=tokyonight)](https://github.com/sharon1106/github-readme-stats)
+![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharon1106&show_icons=true&theme=nightowl) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharon1106&theme=nightowl" alt="sharonstreak"/>
+[![Sharon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharon1106&layout=compact&theme=nightowl)](https://github.com/sharon1106/github-readme-stats)
