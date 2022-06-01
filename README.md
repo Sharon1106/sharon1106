@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me
 
-I'm Sharon from Los Angeles, and I'm a full stack developer focused on front end design and developement. My first language was JavaScript and I enjoy learning languages and frameworks like React, Material Design and Squarespace. I'm also a Hiker. 3d print enthusiast. Lover of music. IPhone tech. Human.
+I'm Sharon from Los Angeles, and I'm a full stack developer focused on front end design and developement. My first language was JavaScript and I enjoy learning languages and frameworks such as React, Material Design and Squarespace. I'm also a Hiker. 3d print enthusiast. Lover of music. IPhone tech. Human.
 - 😄 My pronouns are She/Her
 - 🌱 Exploring UX & UI Design.
 - 💬 Ask me about possibly joining your team :stuck_out_tongue_winking_eye:
