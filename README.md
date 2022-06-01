@@ -9,7 +9,7 @@
 ### :woman_technologist: About Me
 
 I'm Sharon from Los Angeles, California. Full Stack developer focused on Front End, primarily MERN Stack, web-app design and development. Always eager to learn! My first language was JavaScript and I enjoy learning languages and frameworks such as React, Material Design and Squarespace. I'm also a Hiker. 3D print enthusiast. Lover of music. IPhone tech. Human.
-- 😄 My pronouns are She/Her
+- 😄 My pronouns are She/Her :rainbow:
 - 🌱 Exploring UX & UI Design.
 - 💬 Ask me about possibly joining your team :stuck_out_tongue_winking_eye:
 - 📫 How to reach me: <martinezsharonr@gmail.com> [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharon1106) 
