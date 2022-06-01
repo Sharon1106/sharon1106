@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me
 
-I'm Sharon from Los Angeles, California. Full Stack developer focused on Front End, primarily MERN Stack, web-app design and development. Always eager to learn! I'm interested in learning languages & frameworks such as React, Material Design and Squarespace. I'm also a Hiker. 3D print enthusiast. Lover of music. IPhone tech. Human.
+I'm Sharon from Los Angeles, California. Full Stack developer focused on Front End, primarily MERN Stack, web-app design and development. Always eager to learn! Started with JavaScript and I'm interested in learning languages & frameworks such as React, Material Design and Squarespace. I'm also a Hiker. 3D print enthusiast. Lover of music. IPhone tech. Human.
 - 😄 My pronouns are She/Her :rainbow:
 - 🌱 Exploring UX & UI Design.
 - 💬 Ask me about possibly joining your team :stuck_out_tongue_winking_eye:
