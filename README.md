@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hello there, I'm Sharon! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/sharon-martinez-r"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me
 
-I'm Sharon from Los Angeles, California. Full Stack developer focused on Front End, primarily MERN Stack, web-app design and development. Always eager to learn! Started with JavaScript and am interested in languages & frameworks such as React, Material Design and Squarespace. I'm also a Hiker. 3D print enthusiast. Lover of music. IPhone tech. Human.
+I'm Sharon from Los Angeles, California. Full Stack developer. Always eager to learn! Started with JavaScript and am interested in languages & frameworks such as React, React Native and Squarespace. I'm also a Hiker. 3D print enthusiast. Lover of music. IPhone tech. Human.
 - 😄 My pronouns are She/Her :rainbow:
 - 🌱 Exploring UX & UI Design.
 - 💬 Ask me about possibly joining your team :stuck_out_tongue_winking_eye:
