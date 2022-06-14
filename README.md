@@ -11,7 +11,6 @@
 I'm Sharon from Los Angeles, California. Full Stack developer. Always eager to learn! Started with JavaScript and am interested in languages & frameworks such as React, React Native and Squarespace. I'm also a Hiker. 3D print enthusiast. Lover of music. IPhone tech. Human.
 - 😄 My pronouns are She/Her :rainbow:
 - 🌱 Exploring UX & UI Design.
-- 💬 Ask me about possibly joining your team :stuck_out_tongue_winking_eye:
 - 📫 How to reach me: <martinezsharonr@gmail.com> | [in/sharon-martinez-r](https://www.linkedin.com/in/sharon-martinez-r/)
 
 ---
