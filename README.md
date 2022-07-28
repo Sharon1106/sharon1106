@@ -6,16 +6,16 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-sharon1106&style=flat-square&color=blue" alt=""/>
 </p>
 
-### :woman_technologist: About Me
+### About Me
 
-I'm Sharon from Los Angeles, California. Full Stack developer. Always eager to learn! Started with JavaScript and am interested in languages & frameworks such as React, React Native and Squarespace. I'm also a Hiker. 3D print enthusiast. Lover of music. IPhone tech. Human.
+I'm Sharon from Los Angeles, California. Full Stack developer. Always eager to learn! Started with JavaScript and am interested in languages & frameworks such as React, React Native and Squarespace. I'm also a Hiker. 3D print enthusiast. Lover of music. IPhone tech.
 - 😄 My pronouns are She/Her :rainbow:
 - 🌱 Exploring UX & UI Design.
 - 📫 How to reach me: <martinezsharonr@gmail.com> | [in/sharon-martinez-r](https://www.linkedin.com/in/sharon-martinez-r/)
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
+### &nbsp;Languages and Tools
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
@@ -34,8 +34,6 @@ I'm Sharon from Los Angeles, California. Full Stack developer. Always eager to l
 </p>
 
 ---
-
-### :fire: GitHub Stats 
 
 ![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharon1106&show_icons=true&theme=nightowl) 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharon1106&theme=nightowl" alt="sharonstreak"/>
