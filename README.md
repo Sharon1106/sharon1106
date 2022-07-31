@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Sharon! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hello, World! I'm Sharon! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/sharon-martinez-r"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -9,7 +9,7 @@
 ### About Me
 
 I'm Sharon based in Los Angeles, California, born in Guatemala. I'm a Full Stack developer. Started with JavaScript and am interested in languages & frameworks such as React, React Native and Squarespace. Always eager to learn! I'm also a Hiker. 3D print enthusiast. Lover of music. IPhone tech.
-- 😄 My pronouns are She/Her :rainbow:
+- :rainbow: My pronouns are She/Her 
 - 🌱 Exploring UX & UI Design.
 - 📫 How to reach me: <martinezsharonr@gmail.com> | [in/sharon-martinez-r](https://www.linkedin.com/in/sharon-martinez-r/)
 
