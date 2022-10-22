@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/sharon-martinez-r"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/sharon-o/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-sharon1106&style=flat-square&color=blue" alt=""/>
@@ -9,7 +9,7 @@
 
 I'm Sharon, based in Los Angeles, California. I'm a full stack developer, focused on front end work. Hiker. 3D print enthusiast. Lover of music. IPhone tech.
 - 🌱 Exploring UX & UI Design.
-- 📫 How to reach me: <martinezsharonr@gmail.com> | [in/sharon-martinez-r](https://www.linkedin.com/in/sharon-martinez-r/)
+- 📫 How to reach me: <oajacasharonr@gmail.com> | [in/sharon-o](https://www.linkedin.com/in/sharon-o/)
 
 ---
 
