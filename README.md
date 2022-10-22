@@ -30,9 +30,3 @@ I'm Sharon, based in Los Angeles, California. I'm a full stack developer, focuse
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharon1106&show_icons=true&theme=nightowl) 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharon1106&theme=nightowl" alt="sharonstreak"/>
-
