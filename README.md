@@ -1,1 +1,2 @@
-# 🤖 Welcome to My GitHub! | Full-Stack Developer | Sharon O. 🙋‍♀️
+# 🤖 Welcome to My GitHub! I'm Sharon O. 🙋‍♀️
+## Full-Stack Developer |
