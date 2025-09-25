@@ -1,1 +1,1 @@
-# 🤖 Welcome to My GitHub! I'm Sharon O. 🙋‍♀️
+# 🤖 Welcome to My GitHub! I'm Sharon 🙋‍♀️
